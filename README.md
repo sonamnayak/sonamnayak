@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning Redux
 
+👨‍💻 To check my portfolio visit [portfolio-sonamnayak.vercel.app](portfolio-sonamnayak.vercel.app)
+
 📫 How to reach me sonamnayak2710@gmail.com
 
 📄 Know about my experiences [https://tinyurl.com/sonamresume](https://tinyurl.com/sonamresume)
