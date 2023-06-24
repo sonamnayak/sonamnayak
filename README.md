@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Sonam Nayak</h2>
-<h4 align="center">Innovative, task-driven web developer with experience in MERN stack technology. I'm passionate and enthusiastic about my work.</h4>
+<h4 align="center">Innovative, task-driven web developer with experience in MERN and MEAN stack technology. I'm passionate and enthusiastic about my work.</h4>
 
 👀 My area of specialization is Full Stack Development(MEAN & MERN)
 
