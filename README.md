@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Redux and Angular
 
-👨‍💻 To check my portfolio visit [portfolio-sonamnayak.vercel.app](https://portfolio-sonamnayak.vercel.app)
+👨‍💻 To check my portfolio visit [portfolio-sonam.vercel.app](https://portfolio-sonam.vercel.app)
 
 📫 How to reach me sonamnayak2710@gmail.com
 
